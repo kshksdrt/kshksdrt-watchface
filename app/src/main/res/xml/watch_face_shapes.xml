@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WatchFaces>
+    <!-- The default shape is "CIRCLE". -->
+    <WatchFace shape="CIRCLE" width="300" height="300"
+        file="@raw/watchface" />
+    <WatchFace shape="CIRCLE" width="450" height="450"
+        file="@raw/watchface" />
+    <WatchFace shape="RECTANGLE" width="380" height="400"
+        file="@raw/watchface" />
+</WatchFaces>
